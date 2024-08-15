@@ -1,0 +1,25 @@
+.stat-card {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.stat-card div {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 200px;
+}
+
+.stat-card h2 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.stat-card p {
+    margin: 10px 0 0;
+    font-size: 1em;
+    color: #666;
+}
